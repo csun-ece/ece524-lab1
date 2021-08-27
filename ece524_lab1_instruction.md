@@ -18,7 +18,7 @@ After completing this lab, students will be able to:
 ## Requirements
 
 The following material is required to complete the lab:
-- Xilinx Vivado 2021.x
+- Xilinx Vivado 2019.1
 - Zedboard development board
 - USB Programming cable
 
