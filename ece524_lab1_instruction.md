@@ -3,7 +3,7 @@
 **California State University, Northridge**  
 **Department of Electrical and Computer Engineering**  
 
-# Lab 1 Exploring Xilinx Vivado IDE and Development Board
+# Lab 1 - Exploring Xilinx Vivado IDE and Development Board
 
 ## Objective
 
