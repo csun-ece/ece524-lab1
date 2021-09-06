@@ -23,8 +23,12 @@ The following material is required to complete the lab:
 
 ## References
 
-- Xilinx FPGA datasheets (available at http://www.xilinx.com)
-- Software Manual (available at http://www.support.xilinx.com)
+- [Xilinx FPGA datasheets](http://www.xilinx.com)
+- [Software Manual](http://www.support.xilinx.com)
+- [Vivado 2019.1 installation guide](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2019_1/ug973-vivado-release-notes-install-license.pdf)
+- [Vivado 2019.1 getting Started guide](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2019_2/ug910-vivado-getting-started.pdf)
+- [Vivado 2019.1 design flow](https://www.xilinx.com/support/documentation/sw_manuals/xilinx2019_2/ug888-vivado-design-flows-overview-tutorial.pdf)
+- [Vivado 2019.1 implementation guide](https://www.xilinx.com/content/dam/xilinx/support/documentation/sw_manuals/xilinx2019_1/ug904-vivado-implementation.pdf)
 
 ## Introduction
 
