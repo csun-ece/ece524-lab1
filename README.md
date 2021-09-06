@@ -31,4 +31,5 @@ TBD (A summary of task and achievements, and problems encountered)
 
 -------------
 -------------
+Change the following question to yes when you are done with this assignment.
 # Is assignment ready for review? Yes/No
