@@ -29,3 +29,6 @@ TBD (List of FPGA resources used exported from Vivado tool)
 ## Conclusion
 TBD (A summary of task and achievements, and problems encountered)
 
+-------------
+-------------
+# Is assignment ready for review? Yes/No
