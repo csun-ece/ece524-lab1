@@ -68,8 +68,6 @@ Hint: See Section 12 Clock Sources of [ZYBO FPGA Board Reference Manual](https:/
 
 Hint: Think about counters.
 
-:question: **Question 7:** If you have a board that has a base clock rate of 50 MHz, what should be the max count for the clock divider?
-
 ## Procedure
 
 :point_right: **Task 1:** Design a frequency divider counter that slows down the input clock frequency to the FPGA to 1 Hz.
