@@ -73,7 +73,7 @@ Hint: Think about counters.
 ## Procedure
 
 :point_right: **Task 1:** Design a frequency divider counter that slows down the input clock frequency to the FPGA to 1 Hz.
-If we assume the FPGA clock rate is 100 MHz it means we have 50,000,000 cycles/second. Since we are going to use a 50% duty cycle you need a counter that counts from 0 to 49,999,999 and toggles a signal when reaches to the max value.
+If we assume the FPGA clock rate is 50 MHz, it means we have 50,000,000 cycles/second. Since we will use a 50% duty cycle, we need a counter that counts from 0 to 24,999,999 and toggles a signal when it reaches the max value.
 
 - Create a separate source file and name it `clock_divider.vhd`
 - Create a testbench to simulate your clock divider. Name the testbench file `clock_divider_tb.vhd`.
